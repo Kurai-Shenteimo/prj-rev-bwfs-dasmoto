@@ -1,0 +1,41 @@
+/* This is the Heading of the page. */
+.head {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* To save space and keep readability I grouped all typeface */
+body {
+  font-family: Helvetica;
+}
+
+/* This is for all h2 elements */
+h2 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* This is for all prices */
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+/* background color for "Brushes" */
+.brush {
+  background-color: mediumspringgreen;
+}
+
+/* background color for "Frames" */
+.frame {
+  background-color: lightcoral;
+}
+
+/* background color for "Paint" */
+.paint {
+  background-color: skyblue;
+}
